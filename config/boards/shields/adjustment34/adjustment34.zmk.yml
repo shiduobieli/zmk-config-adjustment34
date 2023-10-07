@@ -2,7 +2,7 @@ file_format: "1"
 id: adjustment34
 name: adjustment34
 type: shield
-url: https://github.com/
+url: https://github.com
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
