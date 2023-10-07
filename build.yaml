@@ -14,41 +14,7 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: corne_left
+    shield: adjustment34_left
   - board: nice_nano_v2
-    shield: corne_right
-include:
-  - board: nice_nano_v2
-    shield: corne_left
-  - board: nice_nano_v2
-    shield: corne_right
-include:
-  - board: nice_nano_v2
-    shield: corne_left
-  - board: nice_nano_v2
-    shield: corne_right
-include:
-  - board: nice_nano_v2
-    shield: corne_left
-  - board: nice_nano_v2
-    shield: corne_right
-include:
-  - board: nice_nano_v2
-    shield: corne_left
-  - board: nice_nano_v2
-    shield: corne_right
-include:
-  - board: nice_nano_v2
-    shield: corne_left
-  - board: nice_nano_v2
-    shield: corne_right
-include:
-  - board: nice_nano_v2
-    shield: corne_left
-  - board: nice_nano_v2
-    shield: corne_right
-include:
-  - board: nice_nano_v2
-    shield: corne_left
-  - board: nice_nano_v2
-    shield: corne_right
+    shield: adjustment34_right
+
